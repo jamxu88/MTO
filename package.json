@@ -1,5 +1,5 @@
 {
-  "name": "MTO",
+  "name": "MemeTeamOperator",
   "description": "MTO",
   "version": "1.0.0",
   "main": "app.js",
@@ -7,6 +7,6 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
+    "discord.js": "11.1.0"
   }
 }
